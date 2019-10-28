@@ -6,8 +6,9 @@ The prototype was developed mainly for androids and laptop, so the UI might diff
 1. Make sure you have node and npm installed. A simple check can be done in the terminal by running "node -v"
 2. Clone the repo to your computer
 3. Inside the newly cloned repo, do "npm install" in your terminal.
-4. From the same directory run "node server/server.js"
-5. The server should now be running on your local machine and serving content through your local IP address (localhost in your browser window.) on port 4000. I.e. type "localhost:4000" in your browser to see if it shows you the login page. You can access the login page on your phone by typing "192.168.1.8:4000" in your phones browser.
+4. Build the project with "npm run build" 
+5. From the same directory run "node server/server.js"
+6. The server should now be running on your local machine and serving content through your local IP address (localhost in your browser window.) on port 4000. I.e. type "localhost:4000" in your browser to see if it shows you the login page. You can access the login page on your phone by typing "192.168.1.8:4000" in your phones browser.
 
 # How to use it
 ## The teachers Interface
